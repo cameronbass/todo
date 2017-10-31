@@ -7,7 +7,7 @@ var todos = [{
   completed: false
 }, {
   id: 2,
-  description: "Go to Market",
+  description: "Go to Pool",
   completed: false
 }];
 
